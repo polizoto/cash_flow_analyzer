@@ -1,4 +1,4 @@
-# progressive_budget_app
+# cash_flow_analyzer
 A simple budgeting app with progressive web capabilities
 
 ## Features
